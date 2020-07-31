@@ -1,5 +1,7 @@
 ## Your GitHub Learning Lab Repository for Intro to HTML
 
+## Completed this tutorial to learn how to make a page
+
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
